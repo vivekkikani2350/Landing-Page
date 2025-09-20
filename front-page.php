@@ -337,6 +337,9 @@ get_header();
                                 <img src="<?php echo get_template_directory_uri(); ?>/assets/images/magnifico_icon.png" class="position-absolute magnifico-play_icon pulse-animation" alt="magnifico_icon">
                             </a>
                         </div>
+                        <div>
+                            <img src="<?php echo get_template_directory_uri(); ?>/assets/images/magnifico_icon_1.png" class="position-absolute magnifico_icon_1 floating-animation" alt="magnifico_icom_1">
+                        </div>
                     </div>
                 </div>
             </div>
